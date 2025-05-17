@@ -16,3 +16,4 @@
 |5|[Search on Rotated-Sorted array 2](./BinarySearch//BsOn1D/SearchOnRotatedArray2/SearchOnRotated2.java)|`BS 1D`|Medium|[link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|
 |6|[find min from Rotated-Sorted array](./BinarySearch//BsOn1D/FindMinInRotatedArray/FindMinInRotated.java)|`BS 1D`|Medium|[link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|
 |7|[find single occur elem from Sorted array](./BinarySearch//BsOn1D/FindSingleInSortedArray/FindSingleInSortedArray.java)|`BS 1D`|Medium|[link](https://leetcode.com/problems/single-element-in-a-sorted-array/)|
+|8|[find peak mountain](./BinarySearch//BsOn1D/FindPeakMountain/FindPeakOfMountain.java)|`BS 1D`|Medium|[link](https://leetcode.com/problems/find-peak-element/description/)|
